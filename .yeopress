@@ -1,0 +1,15 @@
+{
+	"wpVer": "4.7.3",
+	"url": "http://localhost:98/obed.zakaz",
+	"tablePrefix": "wp_",
+	"dbHost": "localhost",
+	"dbName": "obed",
+	"dbUser": "root",
+	"dbPass": "",
+	"git": false,
+	"customDirs": false,
+	"installTheme": false,
+	"wpDir": ".",
+	"contentDir": "wp-content",
+	"saltKeys": "define('AUTH_KEY',         'q^s7d:r;Q[lT}RDOf:NL(<VQEVlA<-b9z#Yn=3f(b)62cSH4V)I^7/gmbc4~pf_h');\ndefine('SECURE_AUTH_KEY',  'l<zp(]}JC^/=V&Vl*eyLoTQ7]8(C=1D1y/JhAlN|gcCWc+;LL^y[-#v@}Y{dMy%x');\ndefine('LOGGED_IN_KEY',    '2?ukK0.HDLXkD~nGEdu2A|_6cv?YF9xw~ mnG|v?&h9i79cTj_B<dU58P#d@X<)F');\ndefine('NONCE_KEY',        '!!OAoNw2#6K$!}9DaoM&JLLx`LN;8LF]Ohd+MvON|v4bsM2dr&vEhRNz+XY|5bL.');\ndefine('AUTH_SALT',        '|z*>_GtK7%rm(C72]&VWH;+F-!lZpAHwfSeGXl;C*`hi.G1>h+#:VS%w(N@k3p~4');\ndefine('SECURE_AUTH_SALT', '_+3lOqEs{N-p/TSIBvryA=El*~rh|MDe0b3lBjQb+6-}M_M~R+hl@sFZ +yZXR+g');\ndefine('LOGGED_IN_SALT',   '=N<L3jf|N>POwh&L0.46,8Wmj<],Z{37K^xJg>jR5C?*d.rxY-FXwe;B_CJRO<KO');\ndefine('NONCE_SALT',       'wW-1o+|{EMf@e=m2%<cb^;7/C)z^G~6|CO<KDGcB1A%,/gEb!Y`[XZQxE,$)|^<[');\n"
+}
